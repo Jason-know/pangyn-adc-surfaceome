@@ -1,0 +1,6 @@
+data/
+figures/
+inputs_v5/
+__pycache__/
+*.part
+.venv/
