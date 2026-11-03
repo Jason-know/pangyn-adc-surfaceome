@@ -1,0 +1,2 @@
+top_fraction,observed_known,known_total,null_mean,null_95th,empirical_p,n_permutations
+0.1,12,18,9.7482,11.0,0.0244975502449755,10000

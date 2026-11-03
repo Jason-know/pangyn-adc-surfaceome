@@ -1,0 +1,5 @@
+﻿Cancer,Patients,Age median (IQR),Stage III/IV (%),Grade 3 (%),OS events,PFI events
+OV,304,58 (51-67),92,86,183,210
+UCEC,176,65 (58-73),31,80,32,43
+CESC,303,46 (38-56),21,39,71,70
+Total,783,56 (46-66),51,66,286,323

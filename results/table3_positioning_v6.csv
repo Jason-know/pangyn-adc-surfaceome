@@ -1,0 +1,9 @@
+Study,Cancers,Data layers,Main contribution,Distinction in this study
+"Li et al. 2026 (Br J Cancer)",HGSOC,"TMA; site; time; molecular features","Spatial and temporal ADC-target heterogeneity","Surfaceome-wide discovery plus two-cancer paired total protein and three-cancer single-cell/spatial context"
+"Lee et al. 2026 (Gynecol Oncol)",Ovarian histotypes,"216 IHC specimens","Histotype-specific targets and post-ADC antigen downshift","Keeps RNA, IHC, total protein, and cell/spatial evidence as separate constructs"
+"Porter et al. 2025 (Eur J Cancer)",Ovarian histotypes,"IHC for FOLR1, TROP2, B7-H4","Differential ADC-target expression across major ovarian histotypes","Adds pan-gynecologic RNA and independent cellular/spatial contexts"
+"Shigematsu et al. 2026 (Gynecol Oncol)",Endometrial,"ADC targets; histology; co-expression","Comprehensive endometrial ADC-target profiling","Distinguishes transcript ranking from total-protein and membrane-specific evidence"
+"Ulvang et al. 2025 (Transl Oncol)",Cervical,"522 primary and 194 metastatic lesions","TF/TROP2/NECTIN4 membranous expression and co-expression","Exploratory cross-cancer ranking; does not replace membrane IHC"
+"Gullovsen et al. 2026 (BJC Rep)",Endometrial,"1106 primary and 187 metastatic tumors","CLDN6 expression and prognostic context","Adds a surfaceome-wide candidate benchmark and multi-layer evidence grading"
+"Pollanen et al. 2026 (Commun Med)",Ovarian,"304 patients; 867 samples; multi-omic/spatial","DECIDER ADC target heterogeneity","Two independent CPTAC cohorts plus cross-cancer cell/spatial analysis"
+"This study","OV; UCEC; CESC","Surfaceome discovery; HPA IHC; paired CPTAC; three single-cell atlases; 14 spatial sections","Known-target recovery benchmark, context-dependent rankings, and new candidate triage","Does not claim membrane accessibility or therapeutic efficacy"
