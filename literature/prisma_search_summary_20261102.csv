@@ -1,0 +1,8 @@
+stage,count
+Records identified,836
+Records retrieved,836
+Records excluded at title and abstract screening,365
+"Records with target, cancer, IHC, and quantitative signal",471
+Reports included after structured-data extraction,32
+Target-cancer cohorts included,43
+Records excluded because direct prevalence or denominator was unavailable,439

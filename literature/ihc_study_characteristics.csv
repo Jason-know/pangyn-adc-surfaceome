@@ -1,0 +1,33 @@
+study_id,first_author,year,pmid,doi,cancer,histotype,cohort_role
+Kalli_2008,Kalli KR,2008,18222534,10.1016/j.ygyno.2007.11.020,OV,Epithelial ovarian cancer,Primary IHC prevalence
+Markert_2008,Markert S,2008,19189636,,OV,Epithelial ovarian carcinoma,Primary IHC prevalence
+Kobel_2014,Kobel M,2014,25349970,10.1038/bjc.2014.567,OV,High-grade serous carcinoma,Consortium TMA prevalence
+Porter_2025,Porter JM,2025,40446758,10.1016/j.ejca.2025.115522,OV,Ovarian cancer histotypes,Clinical TMA prevalence
+Liu_2013,Liu T,2013,24086649,10.1371/journal.pone.0075864,CESC,Cervical cancer,Primary IHC prevalence
+Xu_2016,Xu N,2016,27127000,10.1111/iep.12174,OV,Epithelial ovarian carcinoma,Primary IHC prevalence
+Perrone_2020_OV,Perrone E,2020,32117765,10.3389/fonc.2020.00118,OV,Epithelial ovarian cancer,Primary IHC prevalence
+Perrone_2020_UCEC,Perrone E,2020,31891442,10.1002/1878-0261.12627,UCEC,Endometrioid endometrial cancer,Primary IHC prevalence
+Han_2020,Han C,2020,31839338,10.1016/j.ygyno.2019.11.018,UCEC,Uterine serous carcinoma,Primary IHC prevalence
+Ulvang_2025,Ulvang ML,2025,40577962,10.1016/j.tranon.2025.102453,CESC,Primary cervical cancer,IHC prevalence
+Lin_2026,Lin SY,2026,42362263,10.1016/j.tjog.2025.11.028,OV,Ovarian cancer histotypes,Histotype IHC prevalence
+Yuceer_2025,Yuceer RO,2025,40587664,10.1097/md.0000000000043110,OV,Serous ovarian carcinoma,Primary IHC prevalence
+Hassan_2005,Hassan R,2005,16082249,10.1097/01.pai.00000141545.36485.d6,OV,Epithelial ovarian cancer,Primary IHC prevalence
+Weidemann_2021,Weidemann S,2021,33917081,10.3390/biomedicines9040397,OV and UCEC,Common gynecologic carcinoma histotypes,Multi-tumor TMA prevalence
+Cocco_2011_CESC,Cocco E,2011,21693061,10.1186/1471-2407-11-263,CESC,Cervical carcinoma,IHC prevalence
+Cocco_2011_OV,Cocco E,2011,21725665,10.1007/s10585-011-9401-0,OV,Epithelial ovarian cancer,IHC prevalence
+Cocco_2010_UCEC,Cocco E,2010,20700124,10.1038/sj.bjc.6605760,UCEC,Uterine serous papillary carcinoma,IHC prevalence
+Tringler_2006,Tringler B,2006,16256178,10.1016/j.ygyno.2005.08.060,OV,Ovarian carcinoma histotypes,Primary IHC prevalence
+Liang_2016,Liang L,2016,27349304,10.1016/j.humpath.2016.06.011,OV,High-grade serous carcinoma,Primary IHC prevalence
+Gitto_2024,Gitto SB,2024,37882675,10.1158/1078-0432.ccr-23-1079,OV,High-grade serous carcinoma,Primary IHC prevalence
+Kojima_2020,Kojima M,2020,32987797,10.3390/cancers12102748,UCEC,Endometrial cancer,Primary IHC prevalence
+Gullovsen_2026,Gullovsen VL,2026,41986616,10.1038/s44276-026-00225-x,UCEC,Endometrial cancer,Prospective IHC cohort
+Kraemer_2017,Kraemer B,2017,28464843,10.1186/s12885-017-3289-2,OV,Epithelial ovarian carcinoma,Primary IHC prevalence
+Lee_2026,Lee YJ,2026,42235136,10.1016/j.ygyno.2026.05.028,OV,Epithelial ovarian cancer,Longitudinal clinical IHC cohort
+Libert_2026,Libert D,2026,42565327,10.1097/pgp.0000000000001208,UCEC,Molecularly classified endometrial carcinoma,Companion-diagnostic TMA
+DeTommasi_2026,De Tommasi O,2026,42567118,10.1016/j.ygyno.2026.08.002,UCEC,Endometrial carcinoma,Clinical TMA prevalence
+Zhao_2026,Zhao CL,2026,42447657,10.1016/j.ygyno.2026.07.004,OV,High-grade serous ovarian cancer,Primary IHC prevalence
+Demir_2026,Demir T,2026,42072801,10.3390/diagnostics16081175,OV,Advanced high-grade serous ovarian cancer,Primary IHC prevalence
+Salinaro_2025,Salinaro J,2025,40088505,10.1016/j.ygyno.2025.03.012,OV and UCEC,Endometrial and epithelial ovarian cancer,HER2 scoring study
+Seo_2026,Seo JH,2026,42579944,10.1016/j.ygyno.2026.08.007,CESC,Recurrent cervical cancer,Primary and recurrent IHC
+Backhaus_2026,Backhaus C,2026,42738364,10.3390/cancers18172843,OV and UCEC,Endometrial and high-grade serous ovarian cancer,HER2 expression study
+Spizzo_2006,Spizzo G,2006,16678891,10.1016/j.ygyno.2006.03.035,OV,Epithelial ovarian cancer,Primary IHC prevalence

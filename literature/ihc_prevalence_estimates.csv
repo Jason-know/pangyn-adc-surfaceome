@@ -1,0 +1,44 @@
+study_id,target,cancer,histotype,n_positive,n_total,threshold_class,assay_definition,source_location
+Kalli_2008,FOLR1,OV,Epithelial ovarian cancer,134,186,Any positivity,IHC positive,Abstract
+Markert_2008,FOLR1,OV,Epithelial ovarian carcinoma,101,104,Any positivity,Clear alpha-FR expression (rounded from 97%),Abstract
+Kobel_2014,FOLR1,OV,High-grade serous carcinoma,1081,1422,High expression,FOLR1-positive centrally reviewed IHC (rounded from 76%),Abstract
+Porter_2025,FOLR1,OV,Ovarian cancer,235,331,High expression,Histoscore >=50,Published extraction
+Liu_2013,TACSTD2,CESC,Cervical cancer,94,106,Any positivity,IHC positive,Abstract
+Xu_2016,TACSTD2,OV,Epithelial ovarian carcinoma,116,128,Any positivity,IHC positive,Abstract
+Perrone_2020_OV,TACSTD2,OV,Epithelial ovarian cancer,42,90,High expression,Moderate-to-strong IHC,Abstract
+Perrone_2020_UCEC,TACSTD2,UCEC,Endometrioid endometrial cancer,120,143,High expression,Moderate-to-strong IHC,Abstract
+Han_2020,TACSTD2,UCEC,Uterine serous carcinoma,99,104,Any positivity,IHC detected,Abstract
+Porter_2025,TACSTD2,OV,Ovarian cancer,181,331,High expression,Histoscore >=50,Published extraction
+Ulvang_2025,TACSTD2,CESC,Primary cervical cancer,355,522,High expression,Membranous >=2+,Abstract
+Yuceer_2025,TACSTD2,OV,Serous ovarian carcinoma,49,73,High expression,High TROP2 expression,Abstract
+Kojima_2020,CLDN6,UCEC,Endometrial cancer,10,173,High expression,Score 3+,Abstract
+Gullovsen_2026,CLDN6,UCEC,Endometrial cancer,111,1106,High expression,Gastric criteria high expression,Abstract
+Yuceer_2025,CLDN6,OV,Serous ovarian carcinoma,34,73,High expression,High CLDN6 expression,Abstract
+Cocco_2011_OV,F3,OV,Epithelial ovarian cancer,24,25,Any positivity,Cytoplasmic and/or membranous TF,Abstract
+Cocco_2011_CESC,F3,CESC,Cervical carcinoma,8,8,Any positivity,Cytoplasmic and/or membranous TF,Abstract
+Cocco_2010_UCEC,F3,UCEC,Uterine serous papillary carcinoma,16,16,Any positivity,Cytoplasmic and/or membranous TF,Abstract
+Ulvang_2025,F3,CESC,Primary cervical cancer,251,522,High expression,Membranous >=2+,Abstract
+Tringler_2006,VTCN1,OV,Ovarian carcinoma,60,70,Any positivity,Any malignant histology except mucinous; serous/endometrioid/clear cell positive,Abstract
+Liang_2016,VTCN1,OV,High-grade serous carcinoma,267,293,Any positivity,IHC positive,Published extraction
+Porter_2025,VTCN1,OV,Ovarian cancer,330,331,High expression,Histoscore >=50,Published extraction
+Gitto_2024,VTCN1,OV,High-grade serous carcinoma,11,12,High expression,Overexpressed B7-H4,Abstract
+Hassan_2005,MSLN,OV,Epithelial ovarian cancer,34,48,Any positivity,Mesothelin K1 IHC >30% tumor cells,Abstract
+Weidemann_2021,MSLN,OV,Serous ovarian carcinoma,497,511,Any positivity,Any weak-to-strong membranous/cytoplasmic MSLN,Primary article Table 1
+Weidemann_2021,MSLN,UCEC,Endometrioid endometrial carcinoma,100,220,Any positivity,Any weak-to-strong membranous/cytoplasmic MSLN,Primary article Table 1
+Kraemer_2017,SLC34A2,OV,Epithelial ovarian carcinoma,126,136,Any positivity,Positive NaPi2b IHC,Abstract
+Lee_2026,FOLR1,OV,High-grade serous carcinoma,104,120,High expression,PS2-positive FOLR1-high at diagnosis,Abstract
+Lee_2026,TACSTD2,OV,High-grade serous carcinoma,120,120,High expression,Overexpression >=2+,Abstract
+Libert_2026,FOLR1,UCEC,Molecularly classified endometrial carcinoma,5,169,High expression,FOLR1 PS2 >=75,Abstract
+DeTommasi_2026,FOLR1,UCEC,Endometrial carcinoma,38,312,High expression,FOLR1 >=75% with >=2+ (weighted across histotypes),Abstract
+DeTommasi_2026,ERBB2,UCEC,Endometrial carcinoma,49,312,High expression,Gastric HER2 2+/3+ (weighted across histotypes),Abstract
+Zhao_2026,FOLR1,OV,High-grade serous ovarian cancer,100,193,High expression,High FRalpha expression,Abstract
+Zhao_2026,TACSTD2,OV,High-grade serous ovarian cancer,48,193,High expression,High TROP2 expression,Abstract
+Demir_2026,CLDN6,OV,Advanced high-grade serous ovarian cancer,31,119,High expression,Moderate-to-strong membranous >=50% cells,Abstract
+Salinaro_2025,ERBB2,OV,Epithelial ovarian cancer,13,63,High expression,HER2-high IHC,Abstract
+Salinaro_2025,ERBB2,UCEC,Endometrial cancer,19,42,High expression,HER2-high IHC (45.2% rounded),Abstract
+Seo_2026,ERBB2,CESC,Recurrent cervical cancer,18,118,High expression,HER2 IHC 2+/3+,Abstract
+Backhaus_2026,ERBB2,UCEC,Endometrial carcinoma,2,117,High expression,HER2 IHC 3+,Abstract
+Backhaus_2026,ERBB2,OV,High-grade serous ovarian cancer,1,52,High expression,HER2 IHC 3+,Abstract
+Ulvang_2025,NECTIN4,CESC,Primary cervical cancer,63,522,High expression,Membranous >=2+,Abstract
+Lin_2026,NECTIN4,OV,Ovarian cancer,42,92,Any positivity,Weak nectin-4 expression (H-score >0),Abstract
+Spizzo_2006,EPCAM,OV,Epithelial ovarian cancer,137,199,High expression,EPCAM overexpression,Published extraction
