@@ -1,0 +1,19 @@
+source_id	url	release_date	download_date	assay	sha256
+EuropePMC_search	https://www.ebi.ac.uk/europepmc/webservices/rest/search	searched 2026-11-02	2026-11-02	literature search	see package MANIFEST.sha256
+CSPA_SurfaceomeMasterTable	https://wollscheidlab.org/SURFY/table_S3_surfaceome.xlsx	Bausch-Fluck et al. 2018	2026-11-02	cell-surface proteomics annotation	see package MANIFEST.sha256
+HPA_v23	https://v23.proteinatlas.org/	version 23	2026-11-01	immunohistochemistry and subcellular annotation	see package MANIFEST.sha256
+DepMap_24Q4_Model	https://ndownloader.figshare.com/files/51065297	2024-12-10	2026-11-02	cell-line metadata	see package MANIFEST.sha256
+DepMap_24Q4_CRISPR	https://ndownloader.figshare.com/files/51064667	2024-12-10	2026-11-02	CRISPR gene effect	see package MANIFEST.sha256
+DepMap_24Q4_Expression	https://ndownloader.figshare.com/files/51065489	2024-12-10	2026-11-02	RNA expression	see package MANIFEST.sha256
+PRISM_20Q2_CellLines	https://ndownloader.figshare.com/files/36794589	2022-08-23	2026-11-02	PRISM cell-line metadata	see package MANIFEST.sha256
+PRISM_20Q2_Treatments	https://ndownloader.figshare.com/files/36794619	2022-08-23	2026-11-02	PRISM treatment metadata	see package MANIFEST.sha256
+PRISM_20Q2_Response	https://ndownloader.figshare.com/files/36794616	2022-08-23	2026-11-02	secondary-screen replicate-collapsed response	see package MANIFEST.sha256
+TCGA_OV_UCEC_CESC	https://xenabrowser.net/	processed public release	2026-11-01	bulk RNA	not redistributed
+GTEx_v8	https://gtexportal.org/	version 8	2026-11-01	normal tissue RNA	not redistributed
+CPTAC_OV_2020	https://www.linkedomics.org/data_download/CPTAC-OV/	original release	2026-11-01	RNA and total protein	derived target tables included
+CPTAC_UCEC_2020	https://www.cbioportal.org/study/summary?id=ucec_cptac_2020	original release	2026-11-01	RNA and total protein	derived target tables included
+GSE208653	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE208653	2023-04-02	2026-11-01	single-cell RNA	processed target tables included
+GSE208654	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE208654	2023-04-02	2026-11-01	spatial transcriptomics	processed target tables included
+GSE211956	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE211956	2022-08-29	2026-11-01	10x Visium	processed target tables included
+GSE251923	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE251923	2023-12-27	2026-11-01	single-cell and spatial transcriptomics	processed target tables included
+3CA	https://www.weizmann.ac.il/sites/3CA/	current public release	2026-11-01	ovarian single-cell RNA	processed target tables included

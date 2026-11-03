@@ -1,0 +1,15 @@
+source_id	modality	unit	n_samples	role	limitation
+EuropePMC	IHC literature	report and target-cancer cohort	836 records; 32 included reports	IHC prevalence synthesis	heterogeneous assays; one-analyst extraction; no publication-bias test
+CSPA	surface proteomics annotation	protein	967 high-confidence proteins in master table	public membrane annotation	unpaired with TCGA; not quantitative surface abundance
+HPA_v23	IHC and subcellular annotation	target-tissue record or protein	9-12 IHC records per target-cancer	semiquantitative IHC and localization	antibody-dependent; small unpaired samples
+DepMap_24Q4	RNA and CRISPR gene effect	cell line	56 OV; 34 UCEC; 18 CESC with both layers	tumor-intrinsic expression and dependency	cell-line context; dependency is not ADC targetability
+PRISM_20Q2	payload-class viability response	cell line	35 OV; 27 UCEC	TOP1 and microtubule perturbation proxy	unconjugated compounds; no ADC construct or antibody targeting
+TCGA_pan_gyn	bulk RNA	primary tumor	904	RNA nomination and discovery	processed public release
+GTEx_v8	normal tissue median RNA	tissue	54 tissues	systemic normal reference	not patient matched
+CPTAC_OV_2020	paired RNA and total protein	patient	82	RNA-total-protein concordance	total protein; missing proteins
+CPTAC_UCEC_2020	paired RNA and total protein	patient	95	RNA-total-protein concordance	total protein; different processing
+3CA	single-cell RNA	cell and sample	269160 cells; 115 samples	ovarian cellular context	not uniformly patient resolved
+GSE208653	single-cell RNA	cell and sample	77752 retained cells; 9 samples	cervical cellular context	marker-derived cell classes
+GSE211956	spatial transcriptomics	section and spot	8 sections; 20123 spots	ovarian spatial context	interval-debulking specimens
+GSE208654	spatial transcriptomics	section and spot	4 sections; 4983 spots	cervical spatial context	one section per disease state
+GSE251923	single-cell and spatial transcriptomics	cell, section, spot	17546 cells; 2 sections; 8105 spots	endometrial exploratory context	two post-anti-PD-1 patients; no recoverable coordinates
